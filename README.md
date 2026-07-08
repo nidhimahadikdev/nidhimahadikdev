@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/9a/c6/f0/9ac6f036c23d0be505da7a4259d98957.gif" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🌱 I'm currently deepening my knowledge in Data Science and Predictive Modeling.
